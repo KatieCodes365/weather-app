@@ -54,3 +54,6 @@ p {
 .overview {
   margin-bottom: 20px;
 }
+.weather-temperature {
+  float: left;
+}
