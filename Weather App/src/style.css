@@ -57,3 +57,14 @@ p {
 .weather-temperature {
   float: left;
 }
+
+.weather-app .active {
+  color: rgb(33, 33, 33);
+  text-decoration: none;
+  cursor: default;
+}
+
+#fahrenheit-link,
+#celsius-link {
+  text-decoration: none;
+}
